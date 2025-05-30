@@ -6,3 +6,6 @@
 
 2 - Гистограмма и полигон частот
 ![image](https://github.com/user-attachments/assets/44b5d7e7-d915-419b-bc12-2c98005f315c)
+
+3 - Характеристики выборки
+![image](https://github.com/user-attachments/assets/4df2b54d-2ef4-4eeb-af30-4ed2c66d2a21)
