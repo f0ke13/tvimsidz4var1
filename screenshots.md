@@ -10,3 +10,7 @@
 3 - Характеристики выборки
 
 ![image](https://github.com/user-attachments/assets/4df2b54d-2ef4-4eeb-af30-4ed2c66d2a21)
+
+4 - Таблица для нахождения статистики Колмогорова
+
+![image](https://github.com/user-attachments/assets/8f884638-456e-400c-b034-bff240a6e3e9)
