@@ -29,3 +29,7 @@
 7 - Промежутки после склеивания (в main4.py значения те, при которых программа уже вычисляет критерий)
 
 ![image](https://github.com/user-attachments/assets/059b0ee0-cabb-440a-a2d7-bb212cf3b1e4)
+
+8 - Вывод программы для задания 6 (да, там берется +inf включая, но разницы это не играет)
+
+![image](https://github.com/user-attachments/assets/a9db0bf1-71e1-4fbf-ab64-607e4a392c46)
