@@ -14,3 +14,11 @@
 4 - Таблица для нахождения статистики Колмогорова
 
 ![image](https://github.com/user-attachments/assets/8f884638-456e-400c-b034-bff240a6e3e9)
+
+5 - Таблицы промежутков, где абсолютные частоты больше или равны 5.
+
+![image](https://github.com/user-attachments/assets/b7e92d59-0ffd-4e8d-b883-15ce3ec39ade)
+
+
+![image](https://github.com/user-attachments/assets/4bca2d5a-e593-4c78-aba7-565d508a0c08)
+
