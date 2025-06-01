@@ -22,3 +22,6 @@
 
 ![image](https://github.com/user-attachments/assets/4bca2d5a-e593-4c78-aba7-565d508a0c08)
 
+6 - Сообщение о необходимости склеивания промежутков
+
+![image](https://github.com/user-attachments/assets/e0ef5ff0-e157-4ba6-afbd-c379f114d3c2)
