@@ -90,12 +90,12 @@ p_value = 1 - chi2.cdf(chi2_stat, df_chi2)
 print("\nРезультаты:")
 print(f"Количество интервалов: {len(bounds)}")
 print(f"Сумма компонентов χ²: {chi2_stat:.4f}")
+print(f"Количество степеней свободы: {df_chi2}")
 print(f"Критическое значение (α={alpha}): {critical_value:.4f}")
-print(f"Сумма p̂_j: {np.sum(expected_probs):.4f} (охвачено {np.sum(expected_probs)*100:.1f}% распределения)")
 
 if chi2_stat > critical_value:
     print(f"Вывод: Гипотеза отвергается на уровне значимости {alpha}")
 else:
     print(f"Вывод: Нет оснований отвергнуть гипотезу на уровне значимости {alpha}")
 
-print(print(f"Максимальный уровень значимости, чтобы H_0 не была отвергнута: {p_value}"))
+print(f"Максимальный уровень значимости, чтобы H_0 не была отвергнута: {p_value}")
