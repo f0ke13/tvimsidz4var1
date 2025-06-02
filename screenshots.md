@@ -33,3 +33,7 @@
 8 - Вывод программы для задания 6 (да, там написано +inf включая, но это опечатка)
 
 ![image](https://github.com/user-attachments/assets/a9db0bf1-71e1-4fbf-ab64-607e4a392c46)
+
+
+9 - Вывод программы для задания 7
+![image](https://github.com/user-attachments/assets/e7debf40-3520-4044-9ade-e55ca9c1d1ab)
