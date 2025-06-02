@@ -36,4 +36,6 @@
 
 
 9 - Вывод программы для задания 7
+
+
 ![image](https://github.com/user-attachments/assets/e7debf40-3520-4044-9ade-e55ca9c1d1ab)
